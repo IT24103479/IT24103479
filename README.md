@@ -1,4 +1,4 @@
-\# Hi there! 👋 I'm Akasha
+# Hi there! 👋 I'm Akasha
 
 
 
@@ -8,57 +8,57 @@
 
 💡 Interested in:
 
-\- Embedded Systems
+- Embedded Systems
 
-\- PCB Design
+- PCB Design
 
-\- Computer Networks
+- Computer Networks
 
-\- IoT
+- IoT
 
-\- Java Development
-
-
-
-\## 🛠️ Technologies
+- Java Development
 
 
 
-\- Java
-
-\- C
-
-\- Python
-
-\- SQL
-
-\- React
-
-\- Spring Boot
-
-\- MySQL
-
-\- Git
+## 🛠️ Technologies
 
 
 
-\## 📂 Featured Projects
+- Java
+
+- C
+
+- Python
+
+- SQL
+
+- React
+
+- Spring Boot
+
+- MySQL
+
+- Git
 
 
 
-\## 🌱 Currently Learning
+## 📂 Featured Projects
 
 
 
-\- Embedded Linux
-
-\- PCB Design
-
-\- Analog Circuit Design
+## 🌱 Currently Learning
 
 
 
-\## 📫 Connect with me
+- Embedded Linux
+
+- PCB Design
+
+- Analog Circuit Design
+
+
+
+## 📫 Connect with me
 
 
 
