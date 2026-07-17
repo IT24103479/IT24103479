@@ -74,7 +74,6 @@ Email: withanageakasha39@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring) 
-
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
