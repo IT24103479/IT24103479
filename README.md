@@ -70,11 +70,11 @@ Email: withanageakasha39@gmail.com
 
 
 
-!\[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java)
 
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 
-!\[React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 
-!\[Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring) 
 
